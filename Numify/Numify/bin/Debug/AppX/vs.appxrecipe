@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BEPCVRU</Machine>
+    <WindowsUser>Vibranium</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>258e4b6f-83a8-4d4f-90b0-b01d8b7ce5a6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>97AB374F3E12D9718CD954545F3B6EBF54F44EE5BBC951C29E8B6598F307BB4B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>258e4b6f-83a8-4d4f-90b0-b01d8b7ce5a6_1.0.0.0_neutral__e9vk244smk93m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>258e4b6f-83a8-4d4f-90b0-b01d8b7ce5a6_e9vk244smk93m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>258e4b6f-83a8-4d4f-90b0-b01d8b7ce5a6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bilaal</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-09-12T06:01:05.192</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\bin\Debug\Numify.exe">
+      <PackagePath>Numify.exe</PackagePath>
+      <Modified>2017-09-12T23:47:46.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-09-12T06:01:04.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-09-12T06:14:24.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\bin\Debug\Numify.xr.xml">
+      <PackagePath>Numify.xr.xml</PackagePath>
+      <Modified>2017-09-12T06:14:24.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thanni\documents\visual studio 2013\Projects\Numify\Numify\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-09-12T06:01:04.917</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
